@@ -1,0 +1,23 @@
+/* body{
+    background: linear-gradient(to top right, #ffffcc 5%, #00aba9 102%);
+
+} */
+.container {
+  max-width: 500px;
+}
+.Heading {
+  color: whitesmoke;
+  text-align: center;
+}
+.jumbotron {
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+body {
+  background: #648880;
+  background: linear-gradient(to right, #1e90ff, #1564b2 55%, #0f487f);
+}
+.Search-bar {
+  margin-top: -25px;
+}
